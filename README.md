@@ -30,3 +30,7 @@ It's pretty simple, instead of calling `ls`, call `./ft_ls` from the root direct
 
 ### Preview
 <img width="633" alt="Screenshot 2020-03-07 at 15 31 15" src="https://user-images.githubusercontent.com/44320468/76143451-a21f4b00-6088-11ea-8ede-aa9f891b1344.png">
+
+### My Team
+* [gusario](https://github.com/gusario) or [srobert-](https://profile.intra.42.fr/users/srobert-) on intranet.
+* [Wezun4ik](https://github.com/Wezun4ik) or [sbrella](https://profile.intra.42.fr/users/sbrella) on intranet.
