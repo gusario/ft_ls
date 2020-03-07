@@ -27,3 +27,6 @@ It's pretty simple, instead of calling `ls`, call `./ft_ls` from the root direct
 - Reverse sort: -r
 - Sort by modification date: -t
 - Display user ID and group ID: -n
+
+### Preview
+<img width="633" alt="Screenshot 2020-03-07 at 15 31 15" src="https://user-images.githubusercontent.com/44320468/76143451-a21f4b00-6088-11ea-8ede-aa9f891b1344.png">
